@@ -5,6 +5,7 @@
   "dependencies": {
     "axios": "^1.7.9",
     "cra-template": "1.2.0",
+    "gh-pages": "^6.3.0",
     "prop-types": "^15.8.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -35,5 +36,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/gkf9876/movie_app_2025"
+  "homepage": "https://gkf9876.github.io/movie_app_2025"
 }
